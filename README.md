@@ -27,3 +27,24 @@
   * npx create-react-app 폴더명
   * cd 폴더명
   * npm start
+  
+# 🥑 SPA : Single page applicaiton
+  
+  페이지는 하나인데 여러개인 것처럼 눈속임을 한다.
+  --> 자바스크립트가 해준다. 
+  페이지를 매번 새로고침할 필요가 없음.
+  웹사이트를 모바일앱처럼 사용할 수 있음.
+  
+  
+  # 🥑 vs code 확장프로그램
+  
+  ![image](https://github.com/myunzzhang/react_basic/assets/129017008/3138ff2f-3c06-45f6-a0e6-9170efd77d2c)
+  
+
+  # 🥑setting 설정
+  
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/0d6114d4-350a-48bb-853f-fd619f933d84)
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/8f780b98-4615-4f00-aafc-4aa40a7528a0)
+
+
