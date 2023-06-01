@@ -16,3 +16,8 @@
 # 🌼 해결방법: 부모태그로 싸주어야한다 ex: <div> 또는 Fragment
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/493b17de-4646-4e02-8a25-759dcb0b1dd5)
+
+  
+  # 🍕 함수만들기
+  
+  ![image](https://github.com/myunzzhang/react_basic/assets/129017008/9c155620-2e10-4414-9a5a-a09b41441026)
