@@ -18,6 +18,8 @@
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/493b17de-4646-4e02-8a25-759dcb0b1dd5)
 
   
+  ---------------------------------------------------------------------
+  
 # 🍕 함수만들기
   
   ![image](https://github.com/myunzzhang/react_basic/assets/129017008/9c155620-2e10-4414-9a5a-a09b41441026)
@@ -25,3 +27,8 @@
 # 🌼 화살표함수 
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/65bf99a7-6e3e-489d-b574-29965d1fec1f)
+
+
+# 🌼 함수를 밖으로 빼기
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/7a04d9f7-e4a7-43f0-9e0b-583d69f3012b)
