@@ -13,7 +13,7 @@
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/a49664b4-2c0b-403c-badb-4bc3450577ea)
 
 
-# 🌼 해결방법: 부모태그로 싸주어야한다 ex: <div> 또는 Fragment
+# 🌼 해결방법: 부모태그로 싸주어야한다 ex: < div> 또는 Fragment
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/493b17de-4646-4e02-8a25-759dcb0b1dd5)
 
