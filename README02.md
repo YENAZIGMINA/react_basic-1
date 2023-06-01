@@ -11,3 +11,8 @@
 # 🍕 return문은 반드시 하나의 태그로 되어있어야한다.
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/a49664b4-2c0b-403c-badb-4bc3450577ea)
+
+
+# 🌼 해결방법: 부모태그로 싸주어야한다 ex: <div> 또는 Fragment
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/6e2f9738-fe01-4985-9df1-256a02c92736)
