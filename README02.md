@@ -37,7 +37,6 @@
 
 
 
-
 # 🌼 click하면 함수실행 (Event Hamdling)
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/46ddc7a7-8ed9-4ae0-a467-ed8e294dc013)
@@ -46,7 +45,15 @@
 
 
 # 🌼 콘솔에는 숫자가 바뀌어지는데 화면에는 바뀌지 않는다.
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/0f39f22e-c318-42e7-ae8a-f46c8a1f5cda)
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/c4b409eb-7745-4f58-a3be-cbe4d7329a93)
+
+
 react에서는 변수가 바뀐다해서 리랜더링이 일어나지 않는다
 --> 해결책 : 리랜더링이 일어나게 하려면 useState(reack Hook)를 사용해야한다.
 
-![image](https://github.com/myunzzhang/react_basic/assets/129017008/0f39f22e-c318-42e7-ae8a-f46c8a1f5cda)
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/9227079e-be18-4e56-a448-982d9bc0941d)
+
+
