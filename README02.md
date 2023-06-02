@@ -32,3 +32,21 @@
 # 🌼 함수를 밖으로 빼기
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/7a04d9f7-e4a7-43f0-9e0b-583d69f3012b)
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/aa0b67b1-5004-4ce2-bf34-2db8e94206f1)
+
+
+
+
+# 🌼 click하면 함수실행 (Event Hamdling)
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/46ddc7a7-8ed9-4ae0-a467-ed8e294dc013)
+
+==> 화살표함수로 바뀜
+
+
+# 🌼 콘솔에는 숫자가 바뀌어지는데 화면에는 바뀌지 않는다.
+react에서는 변수가 바뀐다해서 리랜더링이 일어나지 않는다
+--> 해결책 : 리랜더링이 일어나게 하려면 useState(reack Hook)를 사용해야한다.
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/0f39f22e-c318-42e7-ae8a-f46c8a1f5cda)
