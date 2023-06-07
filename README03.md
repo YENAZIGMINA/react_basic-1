@@ -5,6 +5,11 @@
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/508c6d21-2247-457c-b3b8-1849d05ae3d7)
 
+# ⬇
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/fcd02245-3435-4867-a529-41538d85289d)
+
+
 
 # 🤡 더하기, 빼기 만들기
 
@@ -12,3 +17,6 @@
 
 하나의 숫자를 이용해서 더하기, 빼기 만들기
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/e864359f-3c09-40ba-a165-b09f1ca3e0f9)
+
+
+
