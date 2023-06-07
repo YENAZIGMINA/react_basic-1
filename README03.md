@@ -10,3 +10,5 @@
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/dedace06-bc2f-424c-be04-b54bbedb3a18)
 
+하나의 숫자를 이용해서 더하기, 빼기 만들기
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/e864359f-3c09-40ba-a165-b09f1ca3e0f9)
