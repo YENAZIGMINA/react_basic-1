@@ -19,4 +19,20 @@
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/e864359f-3c09-40ba-a165-b09f1ca3e0f9)
 
 
+# 🤡 useEffect
 
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/895743bc-2479-44c6-83d6-790abb9fddf5)
+
+
+# 🤡 배열이 비어있을 때
+
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/36f96c45-9e25-45d5-a992-3c692fb88979)
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/4d30277f-dd6e-453a-a4ad-52c2e71cf6da)
+
+# 🤡 배열이 없을 때
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/a7953a84-c99b-41f6-baa3-2b44b60a61e3)
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/bd1bba9f-e6ff-4a40-b970-bd75c8ddc416)
