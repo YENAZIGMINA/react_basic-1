@@ -18,7 +18,7 @@
 하나의 숫자를 이용해서 더하기, 빼기 만들기
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/e864359f-3c09-40ba-a165-b09f1ca3e0f9)
 
-
+-------------------------------------------------------------------
 # 🤡 useEffect
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/895743bc-2479-44c6-83d6-790abb9fddf5)
@@ -36,3 +36,9 @@
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/a7953a84-c99b-41f6-baa3-2b44b60a61e3)
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/bd1bba9f-e6ff-4a40-b970-bd75c8ddc416)
+
+
+---------------------------------
+# 🤡 컴퍼넌트를 이용한 useEffect
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/83ed4a3c-34bb-43b8-94b7-b79d210210c5)
