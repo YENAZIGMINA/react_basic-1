@@ -42,3 +42,11 @@
 # 🤡 컴퍼넌트를 이용한 useEffect
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/83ed4a3c-34bb-43b8-94b7-b79d210210c5)
+
+# 🤡 자식요소에 값전달
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/3253eced-4ef0-4e04-88c4-1bc50ae289aa)
+
+# 🤡 이름바꾸기
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/e95a7009-8035-454d-9c2c-2413ea01e602)
+
+
