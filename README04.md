@@ -17,3 +17,8 @@
 
     이게 원래꺼: json-server --watch db.json 밑에처럼 수정해줘야 함.
 
+# 서버와 통신하기
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/98f37905-23fe-4cbf-af53-b93ba75e2901)
+
+      npm i axios
