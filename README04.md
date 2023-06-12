@@ -22,3 +22,10 @@
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/98f37905-23fe-4cbf-af53-b93ba75e2901)
 
       npm i axios
+      
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/061aa7ee-3435-4d6c-a6aa-7b0e4d20ec09)
+
+⬇ 요로켕
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/f1312c9b-35c6-4cd0-ac55-3b61c3c35fd2)
+
