@@ -21,7 +21,7 @@
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/98f37905-23fe-4cbf-af53-b93ba75e2901)
 
-      npm i axios
+      npm i axios  --> 터미널에 적기
       
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/061aa7ee-3435-4d6c-a6aa-7b0e4d20ec09)
 
