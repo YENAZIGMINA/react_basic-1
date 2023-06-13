@@ -6,3 +6,6 @@
 
   *  npm i react-router-dom
 
+## index.js에 setting (●'◡'●)
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/c32ffbf4-c3c3-4066-8e33-5aade3963320)
