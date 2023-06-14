@@ -51,6 +51,6 @@
 
     Nav.js 에 <nav className="navbar bg-dark"> 추가
     nav-link에 active 삭제
-    app.css에 .navbar a { color: #fff; }를 추
+    app.css에 .navbar a { color: #fff; }를 추가
 
 
