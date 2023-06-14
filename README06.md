@@ -47,3 +47,10 @@
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/b87dd862-a751-459b-90f6-f467be7d38ee)
 
 
+## 추가 정리
+
+    Nav.js 에 <nav className="navbar bg-dark"> 추가
+    nav-link에 active 삭제
+    app.css에 .navbar a { color: #fff; }를 추
+
+
