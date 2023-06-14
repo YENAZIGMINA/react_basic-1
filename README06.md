@@ -33,6 +33,8 @@
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/415263bc-fc1a-4526-991c-f3974021bace)
 
+    * nav.js 정리 -- 클래스명 collapse를  삭제
+
 
 ## 파일 정리
 
