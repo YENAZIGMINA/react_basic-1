@@ -94,3 +94,10 @@
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/e9f95462-203c-4291-9dcf-38f4a2cdd300)
 
+
+## 값을 밖으로 뿌려주기
+
+   우선여기까지함...
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/9cff3601-e402-472a-99e5-67391314d7ab)
+
