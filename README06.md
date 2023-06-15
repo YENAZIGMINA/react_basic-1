@@ -3,7 +3,7 @@
 
 [https://www.npmjs.com/package/json-server]
 
-    npx json-server --watch db.json --port 3005
+   npx json-server --watch db.json --port 3005
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/902ed13d-ddd3-4175-8468-25876d9054d0)
 
@@ -53,4 +53,44 @@
     nav-link에 active 삭제
     app.css에 .navbar a { color: #fff; }를 추가
 
+## 시작 --> 시작할때만...^^
+
+     터미널 --> npm run db
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/1533e38b-7ff2-46ef-9552-4db10ea66a16)
+
+
+## CreatePage 제작 및 세팅
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/25064757-a72f-4130-8d2c-0d5daa1cea31)
+
+    --> app.js 에 연결  
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/bf763ac3-3d47-4e6a-ba50-5ee1facb6735)
+
+    --> 경로 연결 (Routes를 이용)
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/bdc52e56-20f1-4f54-9638-060571102ddb)
+
+### 여러개 파일 연결되게 만들기!
+
+    hompage, editpage, listpage....
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/5f96ed46-ab52-4bb2-bba3-8a89ccc9b91e)
+
+
+## Route 줄이기
+
+    1️⃣ const routes라고 변수 만들기
+    2️⃣ {}에 객체 만들기
+    3️⃣ mpa함수를 이용하여 불러오기
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/fd6d57dd-3f5d-4ae2-9f4c-4191487bef37)
+
+
+## 배열을 밖으로 빼기
+
+    src에 routes.js 파일을 만들고 잘라 넣기
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/e9f95462-203c-4291-9dcf-38f4a2cdd300)
 
