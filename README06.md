@@ -114,4 +114,21 @@
    
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/cedd2aa9-e08b-4cc9-84a7-47f184a8cf66)
 
+   확인했으면 콘솔도 찍혔으면 넘어오세요
+
+## 배열을 만든다.
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/d0e93d66-21db-456f-9caa-d1d535f8472d)
+
+
+## key값 넣어라고 오류뜨는거 해결
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/50bae68f-0bd8-4d59-9b54-9074fdf93050)
+
+## 나따라하면 usestate가 없다고 에러뜨는데 그거 해결
+
+   import React, { useState } from "react"; 이걸 위에 적어준다.
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/9a650853-78b9-48bd-b82a-3904aa2924d5)
+
 
