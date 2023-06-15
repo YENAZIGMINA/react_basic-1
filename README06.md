@@ -132,3 +132,30 @@
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/9a650853-78b9-48bd-b82a-3904aa2924d5)
 
 
+## 추가 설명
+
+usestate는 getpost를 통해 post의 값이 바뀔때마다 다시 실행. --> 지금 이게 무한반복
+console이 미친듯이 생성되고 있음...?!!!
+
+
+## 무한 반복 막기 
+
+   useEffect를 넣으면 자동 생성
+   
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/78052f76-5100-478f-8356-ec3fc6911e97)
+
+    배열이 비어있으면 컴퍼넌트가 실행될 떄 딱 한번만 실행
+    
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/c2f12484-27b5-4976-bca7-4f661b7ee56b)
+
+   이렇게 map함수를 사용하면!!
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/02479082-7871-472d-b91b-47406bb2d00a)
+
+## 타이틀 뿌리기
+
+   타이틀이 뿌려집니다^^ 나는 김현에러 에러 500번나고 강사님과 함께 고침...^^
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/a06afa8c-2b9a-4c0f-8556-19b73d94225a)
+
+
