@@ -98,6 +98,7 @@
 ## 값을 밖으로 뿌려주기
 
    우선여기까지함...
+   https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/9cff3601-e402-472a-99e5-67391314d7ab)
 
