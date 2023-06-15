@@ -97,8 +97,21 @@
 
 ## 값을 밖으로 뿌려주기
 
-   우선여기까지함...
    https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
 
 ![image](https://github.com/myunzzhang/react_basic/assets/129017008/9cff3601-e402-472a-99e5-67391314d7ab)
+
+   사용하려면 GET!!
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/223ac329-4e60-443b-8570-3c7ddb40a75b)
+
+   axios.get('http://localhost:3005/posts').then((res)=>{}))를 이용한다.
+
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/373f3b71-abf0-4a0f-bc9b-59da63c0f4b3)
+
+   ⬇
+
+   http://localhost:3005/posts 주소를 검색창에 입력
+   
+![image](https://github.com/myunzzhang/react_basic/assets/129017008/cedd2aa9-e08b-4cc9-84a7-47f184a8cf66)
+
 
